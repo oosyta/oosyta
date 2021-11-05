@@ -1,4 +1,5 @@
-### Work with oosyta👋
+### Workflow
+## I am learning but will get there soon!
 
 <!--
 **oosyta/oosyta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
